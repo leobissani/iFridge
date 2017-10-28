@@ -1,2 +1,2 @@
 # iFridge
-Trabalho final para a disciplina de Interação Homem-Computador
+Small android app that searches for cooking recipes
